@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Task Generator
+Generates a random task for account progression
